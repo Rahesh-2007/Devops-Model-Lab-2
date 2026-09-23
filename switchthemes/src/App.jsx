@@ -5,7 +5,6 @@ function App() {
     <div
       style={{
         backgroundColor: isDark ? "black" : "white",
-        color:  isDark? "white" : "black",
       }}
     >
       <div className="thrla">
